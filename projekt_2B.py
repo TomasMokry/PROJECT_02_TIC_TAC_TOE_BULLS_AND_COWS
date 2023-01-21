@@ -1,5 +1,6 @@
 """
 projekt_2B.py: druhý projekt do Engeto Online Python Akademie
+TIC TAC TOE
 author: Tomáš Mokrý
 email: tomas.mokry@gmail.com
 discord: Tomas M#0922
