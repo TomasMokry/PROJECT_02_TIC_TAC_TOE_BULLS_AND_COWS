@@ -1,5 +1,6 @@
 """
 projekt_2A.py: druhý projekt do Engeto Online Python Akademie
+BULLS & COWS
 author: Tomáš Mokrý
 email: tomas.mokry@gmail.com
 discord: Tomas M#0922
