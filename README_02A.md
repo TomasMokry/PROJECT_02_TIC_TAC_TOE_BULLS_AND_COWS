@@ -16,8 +16,10 @@ After every game you get results:
 - number of your guesses
 - your game time
 - will ask you for your name and save these results to statistics.txt
-You can find statistics.txt file saved in your folder
+
+You can find statistics.txt file saved in your folder.
 ## **Project preview**
+Welcome text:
 ```
 ------------------------------------------------
 Hi there!
@@ -29,23 +31,35 @@ Enter a number:
 ------------------------------------------------
 (3847)
 >>> 
-
 ```
-
-### Run the program in terminal:
+Number guessing:
 ```
-python3 election-scraper.py 'https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103' 'results-prostejov.csv'
+Enter a number: 
+------------------------------------------------
+(3847)
+>>> 2345
+1 Bull, 2 Cows
+------------------------------------------------
+(3847)
+>>> 
 ```
-### Processing:
+Evaluation:
 ```
-DOWNLOADING DATA FROM URL: 'https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103'
-SAVING TO FILE: results-prostejov.csv
-ENDING election-scraper
+(3847)
+>>> 3847 
+Correct, you've guessed the right number 
+in 2 guesses!
+------------------------------------------------
+That is amazing!
+------------------------------------------------
+Your game time: 00:06:04
+Please enter your name for statistics: Tom
+Find your game staistics in file statistics.txt
 ```
-### Result preview:
+### Statistics preview:
 ```
-code,location,registred,envelopes,valid,Občanská demokratická strana,...
-506761,Alojzov,205,145,144,29,0,0,9,0,5,17,4,1,1,0,0,18,0,5,32,0,0,6,0,0,1,1,15,0
-589268,Bedihošť,834,527,524,51,0,0,28,1,13,123,2,2,14,1,0,34,0,6,140,0,0,26,0,0,0,0,82,1
+Name: Tom, gueses: 2, time: 364.8 s
+Name: Eva, gueses: 4, time: 15.0 s
+Name: Radim, gueses: 8, time: 19.8 s
 ...
 ```
