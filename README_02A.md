@@ -6,7 +6,7 @@ This project is a simple number guessing game. In every new game there is a rand
 You attempt to guess it by suggesting numbers. For each correct digit in the correct position, the guessing player receives a "bull," 
 and for each correct digit in the wrong position, they receive a "cow." The goal of the game is for the guessing player to correctly guess 
 the secret number with as few guesses as possible.
-## **Roles for the 4 digit guess number**
+## **Rules for the 4 digit guess number**
 You need to enter:
 - 4 digit number
 - number can not start with 0
