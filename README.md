@@ -4,10 +4,9 @@
 ## **Project description**
 This project is a simple tic tac toe game in 3x3 grid. Player X and Player 0.
 First player is randomly selected.
-For placing stones you need to use numbers from 1-9
-Game time tracking
+For placing stones you need to use numbers from 1-9.
+There is a game time tracking applied.
 ## **Game Rules**
-GAME RULES:
 Each player can place one mark (or stone)
 per turn on the 3x3 grid. The WINNER is
 who succeeds in placing three of their
