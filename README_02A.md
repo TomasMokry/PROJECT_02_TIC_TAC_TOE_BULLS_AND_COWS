@@ -9,8 +9,8 @@ the secret number with as few guesses as possible.
 ## **Roles for the 4 digit guess number**
 You need to enter:
 - 4 digit number
-- can not start with 0
-- can not have a duplicates inside number
+- number can not start with 0
+- number can not have duplicates
 ## **Evaluation**
 After every game you get results:
 - number of your guesses
