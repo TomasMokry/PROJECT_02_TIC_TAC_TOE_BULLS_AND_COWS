@@ -40,11 +40,11 @@ Let's start the game
 +-----+-----+-----+
 Player  X  | Please enter your move number:  
 ```
-Placing stones:
-|1|2|3|
-|4|5|6|
-|7|8|9|
-Stone X - number 1
+Placing stones:  
+| 1 | 2 | 3 |  
+| 4 | 5 | 6 |  
+| 7 | 8 | 9 |  
+Stone X - number 1  
 Sone 0 - number 4
 
 ```
